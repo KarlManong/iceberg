@@ -21,3 +21,4 @@ mkdocs-windmill
 mkdocs-redirects
 pymdown-extensions
 mkdocs-markdownextradata-plugin
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
